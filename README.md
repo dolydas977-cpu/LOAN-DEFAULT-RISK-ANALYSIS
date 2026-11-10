@@ -99,6 +99,7 @@ To identify the key factors that drive loan defaults and to recommend practical 
 Doly Das | Credit Risk & MIS Reporting Professional
 Assistant Manager with 8+ years of experience in credit risk, asset quality and MIS reporting. Skilled in Advanced Excel, Power BI, SQL and Python.
 Open to: Data Analyst and MIS Reporting roles in UAE banking
+
 Connect: 
 LinkedIn: www.linkedin.com/in/doly-das-3a95bb129
 

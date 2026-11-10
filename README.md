@@ -93,11 +93,13 @@ To identify the key factors that drive loan defaults and to recommend practical 
 | `borrower_profiles.csv` | Borrower data used in the analysis |
 | `loan_applications.csv` | Loan application and default data used in the analysis |
 
-## Author
+## About Me
 
 **Doly Das**
-Credit risk and Data Analyst professional Connect on 
-
+Doly Das | Credit Risk & MIS Reporting Professional
+Assistant Manager with 8+ years of experience in credit risk, asset quality and MIS reporting. Skilled in Advanced Excel, Power BI, SQL and Python.
+Open to: Data Analyst and MIS Reporting roles in UAE banking
+Connect: 
 LinkedIn: www.linkedin.com/in/doly-das-3a95bb129
 
 GitHub: https://github.com/dolydas977-cpu/
